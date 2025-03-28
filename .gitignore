@@ -1,0 +1,7 @@
+/venv
+db.sqlite3
+/api/__pycache__
+/api/migrations/__pycache__
+/coreAPI/__pycache__
+.vercel
+.env

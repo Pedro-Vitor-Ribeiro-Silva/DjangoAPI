@@ -1,0 +1,3 @@
+Armazenamento em nuvem (imagens): cloudinary.com
+Banco de Dados nuvem (informações da Pessoa):neon.tech => postgresql
+Deploy:vercel(https://django-api-lac.vercel.app/)
